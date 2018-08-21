@@ -10,3 +10,5 @@ Choose the correct answer
 4) var 98_382_grades = [];
 
 WRITE YOUR ANSWER HERE
+
+4
